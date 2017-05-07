@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidCourse</string>
+    <string name="btn_ok">OK</string>
+    <string name="listeners">Listeners</string>
+    <string name="lesson_01">\n        Log will show the life cycle,\n        Understanding the lifecycle is the first step in learning the activity</string>
+    <string name="sup_language_switch">Support language switch</string>
+    <string name="five_layouts">Five layouts</string>
+    <string name="linear_explanation">A Layout that arranges its children in a single column or a single row.
+        The direction of the row can be set by calling Orientation</string>
+    <string name="relitive_explanation">A Layout where the positions of the children can be described in
+        relation to each other or to the parent.</string>
+    <string name="frame_explanation">FrameLayout is designed to block out an area on the screen to display a single item.
+        Generally, FrameLayout should be used to hold a single child view</string>
+    <string name="absolute_explanation">A layout that lets you specify exact locations (x/y coordinates) of its children. </string>
+    <string name="lesson_03">attributes and style \n\n
+    A style is a collection of attributes that specify the look and format for a View or window.</string>
+    <string name="lesson_04">Listeners \n\n Listeners are used for any type of asynchronous event in order to implement the code to run when an event occurs.</string>
+    <string name="intent01">intent01</string>
+    <string name="intent02">intent02</string>
+    <string name="lesson_05">An intent is an abstract description of an operation to be performed.
+        It can be used with startActivity to launch an Activity</string>
+    <string name="lesson_05Message">lesson05</string>
+    <string name="lesson_06">The Adapter provides access to the data items. \nThe Adapter is also responsible for making a View for each item in the data set.</string>
+    <string name="user_name">name</string>
+    <string name="user_password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in_failed">Login failed</string>
+    <string-array name="course_menu">
+        <item>Lesson01</item>
+        <item>Lesson02</item>
+        <item>Lesson03</item>
+        <item>Lesson04</item>
+        <item>Lesson05</item>
+        <item>Lesson06</item>
+        <item>Lesson07</item>
+    </string-array>
+</resources>

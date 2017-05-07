@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidCourse</string>
+    <string name="btn_ok">確定</string>
+    <string name="lesson_01">
+        Log會顯示生命週期，
+        注意相關順序及各情形下的變化，
+        瞭解生命週期是學好activity的第一步</string>
+    <string name="sup_language_switch">支援語言切換</string>
+    <string name="five_layouts">五大佈局</string>
+    <string name="linear_explanation">LinearLayout將所有子元素根據orientation屬性的定義向垂直方向或水平方向排成直線. 所有子元素一個接一個地疊上</string>
+    <string name="Frame_explanation">FrameLayout以堆疊方式呈現加入的元件或框架，後加入的元件或框架將會覆蓋在先加入的元件或框架上，一般用來保存單一原件</string>
+    <string name="relitive_explanation">RelativeLayout是透過指定當前控件與兄弟控件或者是父控件之間的相對位置，從而達到控制控件位置的目的。</string>
+    <string name="absolute_explanation">absoluteLayout 可以讓子元素指定準確的x/y座標值，並顯示在螢幕上</string>
+    <string name="frame_explanation">FrameLayout以堆疊方式呈現加入的元件或框架，後加入的元件或框架將會覆蓋在先加入的元件或框架上，一般用來保存單一原件</string>
+    <string name="lesson_03">屬性與樣式\n\n樣式是元件的屬性的集合，它是設計上一個很重要的功能，在Native上大幅度減少重複設計</string>
+    <string name="lesson_04">監聽器\n\n監聽器是Android開發中異步回調的最常見策略。 它可用於任何類型的異步事件，以便在事件發生時實現代碼運行。</string>
+    <string name="lesson_05">" Intent 一般用來跳轉Activity ，它可描述要動的 Activity 並攜帶任何必要資料， 一般以傳送至 startActivity() 來啟動 Activity 的新執行個體。"</string>
+    <string name="lesson_05Message">lesson05</string>
+    <string name="lesson_06">Adapter提供對數據內容的訪問及檢查，並充當AdapterView與底層數據之間的橋樑，其中隱含著MVC的概念。</string>
+</resources>
